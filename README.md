@@ -1,2 +1,2 @@
 # calculadora
-Calculadora básica usando javaScript, HTML e CSS
+Calculadora operações básica desenvolvida usando javaScript, HTML e CSS
